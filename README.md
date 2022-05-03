@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaked levy</h1>
-<h3 align="center">A passionate developer from Isral</h3>
+<h3 align="center">A passionate developer from Israel</h3>
 
 - 🔭 I’m currently working on a game in Unity3D [Unamed](Unpublished)
 
