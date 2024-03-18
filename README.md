@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Israel</h3>
 
 
-- 🌱 I’m currently learning **Full-stack development curse at hackerU**
+-  **Full-stack developer**
 
 - 📫 How to reach me **shakedlv0@gmail.com**
 
