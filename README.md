@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hobbyist independent game Developer
 🔭 I’m currently working on personal finance web app<br>🌱 I’m currently learning Backend development and project management<br>💬 Ask me about the best pizza in the world<br>
 
 
